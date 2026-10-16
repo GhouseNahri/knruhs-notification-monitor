@@ -2,9 +2,7 @@ name: KNRUHS admission page monitor
 
 on:
   schedule:
-    # GitHub scheduled workflows are best-effort and may start late.
-    # This is approximately every 5 minutes, not a real-time guarantee.
-    - cron: "*/5 * * * *"
+    - cron: "17,32,47 * * * *"
   workflow_dispatch:
     inputs:
       baseline_only:
@@ -24,6 +22,7 @@ jobs:
   check:
     runs-on: ubuntu-latest
     timeout-minutes: 3
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -40,7 +39,7 @@ jobs:
       - name: Run monitor
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_CHAT_IDS: ${{ secrets.TELEGRAM_CHAT_IDS }}
           BASELINE_ONLY: ${{ inputs.baseline_only || false }}
         run: python monitor.py
 
