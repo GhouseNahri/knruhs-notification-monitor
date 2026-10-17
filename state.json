@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-17T10:50:05.009216+00:00",
+  "last_checked_utc": "2026-10-17T14:13:57.723416+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -20,6 +20,11 @@
       "first_seen_utc": "2026-10-16T10:20:06.337997+00:00",
       "title": "244",
       "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=244"
+    },
+    "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=245": {
+      "first_seen_utc": "2026-10-17T14:13:57.723416+00:00",
+      "title": "245",
+      "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=245"
     },
     "https://www.knruhs.telangana.gov.in/exam-notifications/": {
       "first_seen_utc": "2026-10-16T10:20:06.337974+00:00",
@@ -116,12 +121,47 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017103829_KNRUHS-MDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-REGISTRATION-AFTER-REVISED-NEET-MDS-2026-CUT-OFF-SCORE.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017111000_UG-AYUSH-CQ-FIRST-PHASE-NOTIFICATION-2026-27-ok.pdf": {
+      "first_seen_utc": "2026-10-17T14:13:57.723416+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017111000_UG-AYUSH-CQ-FIRST-PHASE-NOTIFICATION-2026-27-ok.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017111927_BAMS.pdf": {
+      "first_seen_utc": "2026-10-17T14:13:57.723416+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017111927_BAMS.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017112015_BHMS.pdf": {
+      "first_seen_utc": "2026-10-17T14:13:57.723416+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017112015_BHMS.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017112050_BUMS.pdf": {
+      "first_seen_utc": "2026-10-17T14:13:57.723416+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017112050_BUMS.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017112137_BNYS.pdf": {
+      "first_seen_utc": "2026-10-17T14:13:57.723416+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017112137_BNYS.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017114936_FINAL-MERIT-LIST-UG-AYUSH-26-27.pdf": {
+      "first_seen_utc": "2026-10-17T14:13:57.723416+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017114936_FINAL-MERIT-LIST-UG-AYUSH-26-27.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017115606_KNRUHS-MBBS-BDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-ALLOTMENTS-IN-MOP-UP-PHASE-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-10-17T14:13:57.723416+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017115606_KNRUHS-MBBS-BDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-ALLOTMENTS-IN-MOP-UP-PHASE-OF-COUNSELLING.pdf"
+    },
     "https://www.telangana.gov.in/downloads/calendar-2026/0/": {
       "first_seen_utc": "2026-10-16T10:20:06.337968+00:00",
       "title": "University Calendar",
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "a70e386cb6f4c4c53bf0ca3730ab5d8c702293a7110fdd1e9bcdcde622693b01",
+  "page_hash": "0a5da83ab1002632ba826d461e67900638c17ae341190f0dce2057968b1da2ff",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
