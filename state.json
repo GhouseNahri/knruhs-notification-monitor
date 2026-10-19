@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T06:54:59.203347+00:00",
+  "last_checked_utc": "2026-10-19T14:43:33.705417+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -25,6 +25,11 @@
       "first_seen_utc": "2026-10-17T14:13:57.723416+00:00",
       "title": "245",
       "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=245"
+    },
+    "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=246": {
+      "first_seen_utc": "2026-10-19T14:43:33.705417+00:00",
+      "title": "246",
+      "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=246"
     },
     "https://www.knruhs.telangana.gov.in/exam-notifications/": {
       "first_seen_utc": "2026-10-16T10:20:06.337974+00:00",
@@ -161,12 +166,37 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261019055632_KNRUHS-UG-AYUSH-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-ADDENDUM-TO-MERIT-LIST.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261019125738_UG-AYUSH-AIQ-NOTIFICATION-2nd-phase-2026-27.pdf": {
+      "first_seen_utc": "2026-10-19T14:43:33.705417+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261019125738_UG-AYUSH-AIQ-NOTIFICATION-2nd-phase-2026-27.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261019131432_College_wise_P1.pdf": {
+      "first_seen_utc": "2026-10-19T14:43:33.705417+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261019131432_College_wise_P1.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261019140004_BHMS-MQ-NOTIFICATION-FOR-ONLINE-APPLICATIONS-2026-27.pdf": {
+      "first_seen_utc": "2026-10-19T14:43:33.705417+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261019140004_BHMS-MQ-NOTIFICATION-FOR-ONLINE-APPLICATIONS-2026-27.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261019140128_KNRUHS-BHMS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-PROSPECTUS-FOR-THE-ACADEMIC-YEAR-2026-27.pdf": {
+      "first_seen_utc": "2026-10-19T14:43:33.705417+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261019140128_KNRUHS-BHMS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-PROSPECTUS-FOR-THE-ACADEMIC-YEAR-2026-27.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261019143739_20261019133530_AIQ-Vacancies_for_P2.pdf": {
+      "first_seen_utc": "2026-10-19T14:43:33.705417+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261019143739_20261019133530_AIQ-Vacancies_for_P2.pdf"
+    },
     "https://www.telangana.gov.in/downloads/calendar-2026/0/": {
       "first_seen_utc": "2026-10-16T10:20:06.337968+00:00",
       "title": "University Calendar",
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "ff50468b45e00876258f39c1be2f37ee3a5dcfb81f1e78b20ca623970cf2e9cf",
+  "page_hash": "899b7b81772fe7dd2db002b43f684f9674c33d07807e63eef7c049f9f109c871",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
