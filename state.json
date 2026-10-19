@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T01:33:50.845185+00:00",
+  "last_checked_utc": "2026-10-19T06:54:59.203347+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -156,12 +156,17 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261017115606_KNRUHS-MBBS-BDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-ALLOTMENTS-IN-MOP-UP-PHASE-OF-COUNSELLING.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261019055632_KNRUHS-UG-AYUSH-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-ADDENDUM-TO-MERIT-LIST.pdf": {
+      "first_seen_utc": "2026-10-19T06:54:59.203347+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261019055632_KNRUHS-UG-AYUSH-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-ADDENDUM-TO-MERIT-LIST.pdf"
+    },
     "https://www.telangana.gov.in/downloads/calendar-2026/0/": {
       "first_seen_utc": "2026-10-16T10:20:06.337968+00:00",
       "title": "University Calendar",
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "0a5da83ab1002632ba826d461e67900638c17ae341190f0dce2057968b1da2ff",
+  "page_hash": "ff50468b45e00876258f39c1be2f37ee3a5dcfb81f1e78b20ca623970cf2e9cf",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
