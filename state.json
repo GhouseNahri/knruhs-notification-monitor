@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-24T01:10:01.553561+00:00",
+  "last_checked_utc": "2026-10-24T05:57:08.446419+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -306,12 +306,17 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261023102708_KNRUHS-MBBS-BDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-LIST-OF-NOT-REPORTED-CANDIDATES-IN-MOP-UP-PHASE-OF-COUNSELLING.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261024050152_KNRUHS-MBBS-BDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-CORRIGENDUM-TO-MERIT-LIST-2.pdf": {
+      "first_seen_utc": "2026-10-24T05:57:08.446419+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261024050152_KNRUHS-MBBS-BDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-CORRIGENDUM-TO-MERIT-LIST-2.pdf"
+    },
     "https://www.telangana.gov.in/downloads/calendar-2026/0/": {
       "first_seen_utc": "2026-10-16T10:20:06.337968+00:00",
       "title": "University Calendar",
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "2239fbb480da8b5f124f290777f2380aa387e4732e8db6d2bf21f57d0a5b13bc",
+  "page_hash": "47827b174e20289a4175148612d09de4d93e6823ffa8c69fdc5627a969da851b",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
