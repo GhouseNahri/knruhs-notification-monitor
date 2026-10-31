@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-31T07:01:52.541749+00:00",
+  "last_checked_utc": "2026-10-31T13:40:41.266878+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -50,6 +50,11 @@
       "first_seen_utc": "2026-10-29T13:35:48.138515+00:00",
       "title": "250",
       "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=250"
+    },
+    "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=251": {
+      "first_seen_utc": "2026-10-31T13:40:41.266878+00:00",
+      "title": "251",
+      "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=251"
     },
     "https://www.knruhs.telangana.gov.in/exam-notifications/": {
       "first_seen_utc": "2026-10-16T10:20:06.337974+00:00",
@@ -436,12 +441,32 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261031023640_PG-AYUSH-AIQ-online-registration-NOTIFICATION-2026-27.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261031105900_UG-AYUSH-CQ-THIRD-PHASE-NOTIFICATION-2026-27.pdf": {
+      "first_seen_utc": "2026-10-31T13:40:41.266878+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261031105900_UG-AYUSH-CQ-THIRD-PHASE-NOTIFICATION-2026-27.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261031110524_Vacancies_for_P3.pdf": {
+      "first_seen_utc": "2026-10-31T13:40:41.266878+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261031110524_Vacancies_for_P3.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261031111414_TS_UG_Ayush_2026_CQ_Phase_2_Not_Reported_30-10-2026.pdf": {
+      "first_seen_utc": "2026-10-31T13:40:41.266878+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261031111414_TS_UG_Ayush_2026_CQ_Phase_2_Not_Reported_30-10-2026.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261031112039_TS_UG_Ayush_2026_AIQ_Phase-_3_Not_Reported_31-10-2026.pdf": {
+      "first_seen_utc": "2026-10-31T13:40:41.266878+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261031112039_TS_UG_Ayush_2026_AIQ_Phase-_3_Not_Reported_31-10-2026.pdf"
+    },
     "https://www.telangana.gov.in/downloads/calendar-2026/0/": {
       "first_seen_utc": "2026-10-16T10:20:06.337968+00:00",
       "title": "University Calendar",
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "5b452b8f883c7151aea5a91e95cd3d93deb1a3e3ce0041363a317c37fa076e0d",
+  "page_hash": "1228ce1e4e3e933ec1d01af264005cd3502f90756c7a9e3e6095e29deead22fb",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
