@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T03:08:50.812666+00:00",
+  "last_checked_utc": "2026-11-04T11:00:24.241753+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -526,12 +526,37 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261103110234_KNRUHS-MDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-LIST-OF-NOT-ELIGIBLE-CANDIDATES-AFTER-REVISED-NEET-MDS-CUT-OFF-SCORE.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261104060954_ADMISSION-INTO-NPM-COURSE-FOR-THE-YEAR-2026-27-FINAL-RESULT.pdf": {
+      "first_seen_utc": "2026-11-04T11:00:24.241753+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261104060954_ADMISSION-INTO-NPM-COURSE-FOR-THE-YEAR-2026-27-FINAL-RESULT.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261104104024_KNRUHS-MDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-FINAL-MERIT-LIST-AFTER-REVISED-NEET-MDS-CUT-OFF.pdf": {
+      "first_seen_utc": "2026-11-04T11:00:24.241753+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261104104024_KNRUHS-MDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-FINAL-MERIT-LIST-AFTER-REVISED-NEET-MDS-CUT-OFF.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261104104113_KNRUHS-MDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-LIST-OF-NOT-REPORTED-CANDIDATES-IN-SECOND-PHASE-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-04T11:00:24.241753+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261104104113_KNRUHS-MDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-LIST-OF-NOT-REPORTED-CANDIDATES-IN-SECOND-PHASE-OF-COUNSELLING.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261104104201_KNRUHS-MDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-EXERCISING-WEB-OPTIONS-FOR-MOP-UP-PHASE-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-04T11:00:24.241753+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261104104201_KNRUHS-MDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-EXERCISING-WEB-OPTIONS-FOR-MOP-UP-PHASE-OF-COUNSELLING.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261104104728_KNRUHS-MDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-VACANCIES-FOR-MOP-UP-PHASE-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-04T11:00:24.241753+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261104104728_KNRUHS-MDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-VACANCIES-FOR-MOP-UP-PHASE-OF-COUNSELLING.pdf"
+    },
     "https://www.telangana.gov.in/downloads/calendar-2026/0/": {
       "first_seen_utc": "2026-10-16T10:20:06.337968+00:00",
       "title": "University Calendar",
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "2cb9f565d2f90f09ca9161dc8ea2e62a37905aca31b803fa40e8ce2f64087546",
+  "page_hash": "d05c55369b4004eb991b7b18fc6851c6729d73039e6df96a0a54d8bec856ec12",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
