@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-15T01:20:03.756802+00:00",
+  "last_checked_utc": "2026-11-15T08:21:44.957330+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -90,6 +90,11 @@
       "first_seen_utc": "2026-11-13T09:36:50.994181+00:00",
       "title": "258",
       "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=258"
+    },
+    "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=259": {
+      "first_seen_utc": "2026-11-15T08:21:44.957330+00:00",
+      "title": "259",
+      "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=259"
     },
     "https://www.knruhs.telangana.gov.in/exam-notifications/": {
       "first_seen_utc": "2026-10-16T10:20:06.337974+00:00",
@@ -866,12 +871,27 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261113103006_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-LIST-OF-ELIGIBLE-INELIGIBLE-AND-ABSENT-CANDIDATES-UNDER-PWD-CATEGORY.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115071149_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-PROVISIONAL-MERIT-LIST-OF-CANDIDATES.pdf": {
+      "first_seen_utc": "2026-11-15T08:21:44.957330+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115071149_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-PROVISIONAL-MERIT-LIST-OF-CANDIDATES.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115071335_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-NOT-ELIGIBLE-CANDIDATES-LIST.pdf": {
+      "first_seen_utc": "2026-11-15T08:21:44.957330+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115071335_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-NOT-ELIGIBLE-CANDIDATES-LIST.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115071642_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-ADDEDDUM-TO-MERIT-LIST.pdf": {
+      "first_seen_utc": "2026-11-15T08:21:44.957330+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115071642_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-ADDEDDUM-TO-MERIT-LIST.pdf"
+    },
     "https://www.telangana.gov.in/downloads/calendar-2026/0/": {
       "first_seen_utc": "2026-10-16T10:20:06.337968+00:00",
       "title": "University Calendar",
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "4ae92c6959dfea3dbbab82dc6221879f624932515d10a7f4c4ed0b3382266262",
+  "page_hash": "8d01d83f18abf8299ac3c309e5467a96831e0e9fec45aca9883a8262847202f1",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
