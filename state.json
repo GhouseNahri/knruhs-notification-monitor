@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-15T08:21:44.957330+00:00",
+  "last_checked_utc": "2026-11-15T15:49:36.216279+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -886,12 +886,27 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115071642_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-ADDEDDUM-TO-MERIT-LIST.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115115130_KNRUHS-BHMS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-LIST-OF-NOT-REPORTED-CANDIDATES-IN-SECOND-PHASE-OF-COUNSELLING-AND-CANDIDATES-AVAILED-FREE-EXIT.pdf": {
+      "first_seen_utc": "2026-11-15T15:49:36.216279+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115115130_KNRUHS-BHMS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-LIST-OF-NOT-REPORTED-CANDIDATES-IN-SECOND-PHASE-OF-COUNSELLING-AND-CANDIDATES-AVAILED-FREE-EXIT.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115115409_KNRUHS-BHMS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-VACANCIES-FOR-MOP-UP-PHASE-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-15T15:49:36.216279+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115115409_KNRUHS-BHMS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-VACANCIES-FOR-MOP-UP-PHASE-OF-COUNSELLING.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115115626_KNRUHS-BHMS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-EXERCISING-WEB-OPTIONS-FOR-MOP-UP-PHASE-OF-COUNSELLING-.pdf": {
+      "first_seen_utc": "2026-11-15T15:49:36.216279+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115115626_KNRUHS-BHMS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-EXERCISING-WEB-OPTIONS-FOR-MOP-UP-PHASE-OF-COUNSELLING-.pdf"
+    },
     "https://www.telangana.gov.in/downloads/calendar-2026/0/": {
       "first_seen_utc": "2026-10-16T10:20:06.337968+00:00",
       "title": "University Calendar",
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "8d01d83f18abf8299ac3c309e5467a96831e0e9fec45aca9883a8262847202f1",
+  "page_hash": "25458565505a8b28dd67fb2d219ca0ad44628b0d8dc1580ccef3518413a6a568",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
