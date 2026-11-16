@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-16T08:02:08.572893+00:00",
+  "last_checked_utc": "2026-11-16T18:37:00.046373+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -901,12 +901,32 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261115115626_KNRUHS-BHMS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-EXERCISING-WEB-OPTIONS-FOR-MOP-UP-PHASE-OF-COUNSELLING-.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261116110005_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-WITHHELD-OF-FIRST-PHASE-ALLOTMENTS.pdf": {
+      "first_seen_utc": "2026-11-16T18:37:00.046373+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261116110005_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-WITHHELD-OF-FIRST-PHASE-ALLOTMENTS.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261116122909_KNRUHS-MDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-FREE-EXIT.pdf": {
+      "first_seen_utc": "2026-11-16T18:37:00.046373+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261116122909_KNRUHS-MDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-FREE-EXIT.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-FREE-EXIT.pdf": {
+      "first_seen_utc": "2026-11-16T18:37:00.046373+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-FREE-EXIT.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-REVISED-ALLOTMENT-LIST-IN-FIRST-PHASE-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-16T18:37:00.046373+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-REVISED-ALLOTMENT-LIST-IN-FIRST-PHASE-OF-COUNSELLING.pdf"
+    },
     "https://www.telangana.gov.in/downloads/calendar-2026/0/": {
       "first_seen_utc": "2026-10-16T10:20:06.337968+00:00",
       "title": "University Calendar",
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "25458565505a8b28dd67fb2d219ca0ad44628b0d8dc1580ccef3518413a6a568",
+  "page_hash": "291f4742f0c86455261e36775745b10abf5adf4da2ac8b969561f312c2972349",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
