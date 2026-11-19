@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T01:15:39.923988+00:00",
+  "last_checked_utc": "2026-11-19T08:53:50.234407+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -926,6 +926,11 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/AHS-BPT-AND-MLT-ADMISSIONS-PROSPECTUS-2026-27-1.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/BHMS-MQ-College_Wise_P3.pdf": {
+      "first_seen_utc": "2026-11-19T08:53:50.234407+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/BHMS-MQ-College_Wise_P3.pdf"
+    },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/College_Wise_P3.pdf": {
       "first_seen_utc": "2026-11-17T10:47:33.909518+00:00",
       "title": "View Document",
@@ -982,6 +987,6 @@
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "bb1914d45853e646365e34a13a004348734321a002de8ac2c9457c2fa2654944",
+  "page_hash": "b200387b7d1efa4986769f12643e95f430df35e70ee122b13998c69c3ac5e852",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
