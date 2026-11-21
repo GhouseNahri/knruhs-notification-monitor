@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-21T04:13:51.738614+00:00",
+  "last_checked_utc": "2026-11-21T12:46:38.347394+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -105,6 +105,11 @@
       "first_seen_utc": "2026-11-19T18:20:34.093842+00:00",
       "title": "261",
       "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=261"
+    },
+    "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=262": {
+      "first_seen_utc": "2026-11-21T12:46:38.347394+00:00",
+      "title": "262",
+      "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=262"
     },
     "https://www.knruhs.telangana.gov.in/exam-notifications/": {
       "first_seen_utc": "2026-10-16T10:20:06.337974+00:00",
@@ -1041,6 +1046,11 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/PG-AYUSH-AIQ-WEBOPTIONS-NOTIFICATION-2026-27.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/RE-OPENING-OF-BHMS-MQ-ONLINE-APPILICATION.pdf": {
+      "first_seen_utc": "2026-11-21T12:46:38.347394+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/RE-OPENING-OF-BHMS-MQ-ONLINE-APPILICATION.pdf"
+    },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/UG-AYUSH-CQ-College_Wise_P4_FINAL.pdf": {
       "first_seen_utc": "2026-11-19T18:20:34.093842+00:00",
       "title": "View Document",
@@ -1062,6 +1072,6 @@
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "06fe336a703458c53da113f24bbd13a697f6fcd233b1e6bb16839c78f7d59a7e",
+  "page_hash": "0b6f8c3a1135d44bce4da9c57f8f3eb3c020fe2b010749b898e8d839159c568a",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
