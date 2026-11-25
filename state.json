@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T02:32:23.571521+00:00",
+  "last_checked_utc": "2026-11-25T11:46:58.388977+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -110,6 +110,11 @@
       "first_seen_utc": "2026-11-21T12:46:38.347394+00:00",
       "title": "262",
       "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=262"
+    },
+    "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=263": {
+      "first_seen_utc": "2026-11-25T11:46:58.388977+00:00",
+      "title": "263",
+      "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=263"
     },
     "https://www.knruhs.telangana.gov.in/exam-notifications/": {
       "first_seen_utc": "2026-10-16T10:20:06.337974+00:00",
@@ -946,10 +951,40 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/College_Wise_P3.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-BDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-LIST-OF-NOT-REPORTED-CANDIDATES-IN-SPECIAL-STRAY-VACANCY-PHASE-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-25T11:46:58.388977+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-BDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-LIST-OF-NOT-REPORTED-CANDIDATES-IN-SPECIAL-STRAY-VACANCY-PHASE-OF-COUNSELLING.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-BDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-EXERCISING-WEB-OPTIONS-FOR-ADDITIONAL-SPECIAL-STRAY-VACANCY-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-25T11:46:58.388977+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-BDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-EXERCISING-WEB-OPTIONS-FOR-ADDITIONAL-SPECIAL-STRAY-VACANCY-OF-COUNSELLING.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-BDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-VACANCIES-FOR-ADDITIONAL-SPECIAL-STRAY-VACANCY-PHASE-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-25T11:46:58.388977+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-BDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-VACANCIES-FOR-ADDITIONAL-SPECIAL-STRAY-VACANCY-PHASE-OF-COUNSELLING.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-BDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-EXERCISING-WEB-OPTIONS-FOR-ADDITIONAL-SPECIAL-STRAY-VACANCY-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-25T11:46:58.388977+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-BDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-EXERCISING-WEB-OPTIONS-FOR-ADDITIONAL-SPECIAL-STRAY-VACANCY-OF-COUNSELLING.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-BDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-VACANCIES-FOR-ADDITIONAL-SPECIAL-STRAY-VACANCY-PHASE-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-25T11:46:58.388977+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-BDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-VACANCIES-FOR-ADDITIONAL-SPECIAL-STRAY-VACANCY-PHASE-OF-COUNSELLING.pdf"
+    },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-BHMS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-PROVISIONAL-MERIT-LIST-OF-CANDIDATES-AFTER-REOPENING-OF-REGISTRATIONS.pdf": {
       "first_seen_utc": "2026-11-23T22:41:24.496735+00:00",
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-BHMS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-PROVISIONAL-MERIT-LIST-OF-CANDIDATES-AFTER-REOPENING-OF-REGISTRATIONS.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MBBS-BDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-LIST-OF-NOT-REPORTED-CANDIDATES-IN-SPECIAL-STRAY-VACANCY-PHASE-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-25T11:46:58.388977+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MBBS-BDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-LIST-OF-NOT-REPORTED-CANDIDATES-IN-SPECIAL-STRAY-VACANCY-PHASE-OF-COUNSELLING.pdf"
     },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MDS-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-ALLOTMENT-LIST-IN-ADDITIONAL-MOP-UP-PHASE-OF-COUNSELLING.pdf": {
       "first_seen_utc": "2026-11-20T08:37:07.337522+00:00",
@@ -1000,6 +1035,16 @@
       "first_seen_utc": "2026-11-23T22:41:24.496735+00:00",
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-ADDENDUM-TO-MERIT-LIST.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-ADDENDUM-TO-MERIT-LIST2.pdf": {
+      "first_seen_utc": "2026-11-25T11:46:58.388977+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-ADDENDUM-TO-MERIT-LIST2.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-ALLOTMENTS-IN-SECOND-PHASE-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-25T11:46:58.388977+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-ALLOTMENTS-IN-SECOND-PHASE-OF-COUNSELLING.pdf"
     },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-REVISED-ALLOTMENT-LIST-IN-FIRST-PHASE-OF-COUNSELLING.pdf": {
       "first_seen_utc": "2026-11-16T18:37:00.046373+00:00",
@@ -1097,6 +1142,6 @@
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "cebc4bb7bb7a4ff27c90395d0d56bd8d4343b375a18987361ee7d0e88316eeec",
+  "page_hash": "fb358c1ba98888cde6f3699b7c8bd2b6fb8863134446a559f0c303da175dc226",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
