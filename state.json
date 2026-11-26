@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-26T12:42:45.976168+00:00",
+  "last_checked_utc": "2026-11-26T21:57:40.443461+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -1066,6 +1066,11 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-ALLOTMENTS-IN-ADDITIONAL-MOP-UP-PHASE-OF-COUNSELLING.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-ALLOTMENTS-IN-STRAY-VACANCY-PHASE-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-26T21:57:40.443461+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-ALLOTMENTS-IN-STRAY-VACANCY-PHASE-OF-COUNSELLING.pdf"
+    },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MDS-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-LIST-OF-NOT-REPORTED-CANDIDATES-IN-MOP-UP-PHASE-OF-COUNSELLING.pdf": {
       "first_seen_utc": "2026-11-19T18:20:34.093842+00:00",
       "title": "View Document",
@@ -1232,6 +1237,6 @@
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "e765dc351c1e57ad0ddcb7a0676e016e38cc8b48d6c5850ab68166d74b72ab7d",
+  "page_hash": "61339cffddeb205f99ff52db42079a85a56e2f6a272880d72d45d56c28a99ab1",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
