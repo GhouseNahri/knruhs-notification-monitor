@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-28T04:18:57.699158+00:00",
+  "last_checked_utc": "2026-11-28T13:29:22.267613+00:00",
   "notices": {
     "https://www.knruhs.telangana.gov.in/admission-notification/": {
       "first_seen_utc": "2026-10-16T10:20:06.337963+00:00",
@@ -130,6 +130,11 @@
       "first_seen_utc": "2026-11-27T14:12:16.415716+00:00",
       "title": "266",
       "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=266"
+    },
+    "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=267": {
+      "first_seen_utc": "2026-11-28T13:29:22.267613+00:00",
+      "title": "267",
+      "url": "https://www.knruhs.telangana.gov.in/admission-notification/?results_page=267"
     },
     "https://www.knruhs.telangana.gov.in/exam-notifications/": {
       "first_seen_utc": "2026-10-16T10:20:06.337974+00:00",
@@ -966,6 +971,11 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/AHS-BPT-AND-MLT-ADMISSIONS-PROSPECTUS-2026-27-1.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/BHMS-COURSE-SPOT-ADMISSION-NOTIFICATION-2026-27.pdf": {
+      "first_seen_utc": "2026-11-28T13:29:22.267613+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/BHMS-COURSE-SPOT-ADMISSION-NOTIFICATION-2026-27.pdf"
+    },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/BHMS-MQ-College_Wise_P3.pdf": {
       "first_seen_utc": "2026-11-19T08:53:50.234407+00:00",
       "title": "View Document",
@@ -1151,10 +1161,20 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-ADDENDUM-TO-MERIT-LIST.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-ADDENDUM-TO-MERIT-LIST1.pdf": {
+      "first_seen_utc": "2026-11-28T13:29:22.267613+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-ADDENDUM-TO-MERIT-LIST1.pdf"
+    },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-ALLOTMENTS-IN-FIRST-PHASE-OF-COUNSELLING.pdf": {
       "first_seen_utc": "2026-11-20T17:20:39.355167+00:00",
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-ALLOTMENTS-IN-FIRST-PHASE-OF-COUNSELLING.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-REVISED-ALLOTMENTS-IN-SECOND-PHASE-OF-COUNSELLING.pdf": {
+      "first_seen_utc": "2026-11-28T13:29:22.267613+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-COLLEGE-WISE-REVISED-ALLOTMENTS-IN-SECOND-PHASE-OF-COUNSELLING.pdf"
     },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-CORRIGENDUM-TO-MERIT-LIST-3.pdf": {
       "first_seen_utc": "2026-11-27T14:12:16.415716+00:00",
@@ -1180,6 +1200,11 @@
       "first_seen_utc": "2026-11-27T14:12:16.415716+00:00",
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-CORRIGENDUM-TO-MERIT-LIST4.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-CORRIGENDUM-TO-MERIT-LIST5.pdf": {
+      "first_seen_utc": "2026-11-28T13:29:22.267613+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-CORRIGENDUM-TO-MERIT-LIST5.pdf"
     },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-FINAL-MERIT-LIST-1.pdf": {
       "first_seen_utc": "2026-11-18T19:07:16.857782+00:00",
@@ -1216,6 +1241,11 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/MD-AYURVEDA-ELIGIBLE.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/MD-HOMEO-MQ.pdf": {
+      "first_seen_utc": "2026-11-28T13:29:22.267613+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/MD-HOMEO-MQ.pdf"
+    },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/MD-HOMOEO-AIQ-P1.pdf": {
       "first_seen_utc": "2026-11-19T18:20:34.093842+00:00",
       "title": "View Document",
@@ -1240,6 +1270,11 @@
       "first_seen_utc": "2026-11-27T14:12:16.415716+00:00",
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/NOT-ELIGIBLE-MD-AYURVEDA.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/NOT-ELIGIBLE-MD-HOMOEO-1.pdf": {
+      "first_seen_utc": "2026-11-28T13:29:22.267613+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/NOT-ELIGIBLE-MD-HOMOEO-1.pdf"
     },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/NOT-ELIGIBLE-MD-HOMOEO.pdf": {
       "first_seen_utc": "2026-11-27T14:12:16.415716+00:00",
@@ -1281,6 +1316,11 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/UG-AYUSH-MQ-NOTIFICATION-STRAY-VACANCY-PHASE-2026-27.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/UG-AYUSH-SPOT-ADMISSION-NOTIFICATION-2026-27.pdf": {
+      "first_seen_utc": "2026-11-28T13:29:22.267613+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/UG-AYUSH-SPOT-ADMISSION-NOTIFICATION-2026-27.pdf"
+    },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/UG-MQ-College_Wise_P4.pdf": {
       "first_seen_utc": "2026-11-26T12:42:45.976168+00:00",
       "title": "View Document",
@@ -1291,10 +1331,20 @@
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/UG-MQ-FML.pdf"
     },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/UG_Ayush_CQ_Phase_5_Not_Reported.pdf": {
+      "first_seen_utc": "2026-11-28T13:29:22.267613+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/UG_Ayush_CQ_Phase_5_Not_Reported.pdf"
+    },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/UG_CQ_Phase_4_Not_Reported.pdf": {
       "first_seen_utc": "2026-11-25T20:42:54.802353+00:00",
       "title": "View Document",
       "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/UG_CQ_Phase_4_Not_Reported.pdf"
+    },
+    "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/UG_MQ_Phase_4_Not_Reported_28-11-2026.pdf": {
+      "first_seen_utc": "2026-11-28T13:29:22.267613+00:00",
+      "title": "View Document",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/UG_MQ_Phase_4_Not_Reported_28-11-2026.pdf"
     },
     "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/Vacancies_for_P4-4.pdf": {
       "first_seen_utc": "2026-11-17T10:47:33.909518+00:00",
@@ -1307,6 +1357,6 @@
       "url": "https://www.telangana.gov.in/downloads/calendar-2026/0/"
     }
   },
-  "page_hash": "8e17ee55e6983847e4cec6a61e882c5394ba18919cf5df438e096a29a27c7312",
+  "page_hash": "7b15db90e079e53f867fc2d05a5b10741dab239e7373a46206e1b356e111c486",
   "target_url": "https://www.knruhs.telangana.gov.in/admission-notification/"
 }
